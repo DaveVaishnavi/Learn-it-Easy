@@ -1,4 +1,4 @@
-# Learn-it-Easy!
+# Learn-it-Easy! <img align="right" width="100" height="100" src="https://github.com/DaveVaishnavi/Learn-it-Easy/assets/99636505/ef72f36d-b347-495f-8c4d-75dcd88db65a">
 
 ![image](https://github.com/DaveVaishnavi/Learn-it-Easy/assets/99636505/ef72f36d-b347-495f-8c4d-75dcd88db65a)
 
