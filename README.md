@@ -1,2 +1,3 @@
-# Learn-it-Easy
-Introducing a FlashCard Language Learning App! Reviving the powerful learning technique in a tech-savvy world. Learn basic words in Sanskrit, French, Spanish, and Mandarin. Audio included for Mandarin. Boost your recall power with active participation. Enhance language learning effortlessly!
+# Learn-it-Easy!
+
+![image](https://github.com/DaveVaishnavi/Learn-it-Easy/assets/99636505/ef72f36d-b347-495f-8c4d-75dcd88db65a)
