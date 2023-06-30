@@ -28,6 +28,15 @@ Python with several libraries like tkinter, pandas, playsound and random. I used
 # IDE
 PyCharm
 
+# Project Link
+
+https://devfolio.co/projects/learn-it-easy-0652
+
+# Video Demonstration:
+
+https://www.loom.com/share/6141c8748d2b425a9a7d2e05fc016424?sid=1fd10b36-3f8d-489b-af34-46aa37ccf75f
+
+
 
 
 
