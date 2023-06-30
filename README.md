@@ -1,4 +1,4 @@
-# Learn-it-Easy! <img align="right" width="150" height="150" src="https://github.com/DaveVaishnavi/Learn-it-Easy/assets/99636505/ef72f36d-b347-495f-8c4d-75dcd88db65a">
+# Learn-it-Easy! <img align="right" width="120" height="120" src="https://github.com/DaveVaishnavi/Learn-it-Easy/assets/99636505/ef72f36d-b347-495f-8c4d-75dcd88db65a">
 
 # Idea Development
 
